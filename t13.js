@@ -2,6 +2,7 @@
 
 function replaceWord(str, word, newWord) {
     // Sizin kodunuz
+    
 }
 
 console.log(replaceWord('Hello world', 'world', 'Javascript')); // Hello Javascript
