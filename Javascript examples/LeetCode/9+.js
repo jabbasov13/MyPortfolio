@@ -19,6 +19,5 @@ var isPalindrome = function(x) {
     }else{
         return false
     }
-    
-    
 };
+console.log(isPalindrome(115511))
