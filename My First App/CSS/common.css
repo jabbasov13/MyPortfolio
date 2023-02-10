@@ -1,0 +1,59 @@
+.section-spacing{
+    padding: 90px 0;
+}
+
+
+.section-header h2{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: #555555;
+}
+.section-header p{
+    text-align: center;
+    margin-top: 20px;
+    color: #555555;
+    font-weight: 400;
+
+}
+.section-header .graduation-gap-icon{
+    text-align: center;
+    margin: 30px 0 60px 0;
+    border-bottom: 1px solid rgb(4, 4, 4);
+    width: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    
+
+}
+
+.section-header .graduation-gap-icon i{
+    padding: 5px;
+    background-color: #fff;
+    position: absolute;
+    
+}
+.margin-18-0{
+    margin: 18px 0;
+}
+
+.margin-10-0{
+    margin: 10px 0;
+}
+.margin-0-10{
+    margin: 0 10px;
+}
+.margin-0-15{
+    margin: 0 15px;
+}
+.marginR{
+    margin-right: 20px;
+}
+.marginL{
+    margin-left: 20px;
+}
+
